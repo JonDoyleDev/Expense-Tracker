@@ -42,3 +42,6 @@ A simple web application to track expenses. Users can add, view, and manage thei
 ## Background
 
 Thanks for checking out my repo! I'm Jon, an aspiring web developer from Denver Colorado. This project was made following the tutorial in the link below, and then I added some very basic animations, as well as the github link to this repository. The objective with this exercise was to refresh and further my understanding of the JavaScript fundamentals.
+
+## Tutorial
+Link: https://www.youtube.com/watch?v=jTT71vNveYg
