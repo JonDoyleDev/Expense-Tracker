@@ -20,7 +20,7 @@ A simple web application to track expenses. Users can add, view, and manage thei
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/jondoyledev/expensetracker.git
+    git clone https://github.com/jondoyledev/expense-tracker.git
     cd expense-tracker
     ```
 
